@@ -62,6 +62,7 @@ Most of the immediate communications between community members takes place via I
 
 * [How the project got started](#Project-Background)
 * [Licenses](#Licenses)
+* [Languages](#Languages)
 * [Get involved](#Get-Involved)
 * [OpenCine](###OpenCine)
 * [AXIOM Remote](###AXIOM-Remote)
@@ -81,6 +82,17 @@ The apertus° association proudly serves the common good and does not seek profi
 
 * <a href="https://www.apertus.org/mission-statement">Mission Statement</a>.
 * <a href="https://www.apertus.org/association-bylaws">Association Bylaws</a>.
+
+
+### Languages
+
+* We're building a RAW video footage processing environment called OpenCine - Programming Language: C++. The software itself should be buildable on all platforms but primary focus is on Linux (Ubuntu and derivatives like LinuxMint distributions) - changes aren't tested on Windows straight away. OpenCine.Build Instructions. There is a sub-project called ProcessingTest, which is used for prototyping and testing algorithms, there you can find some de-Bayering tests. We also have custom de-Bayering algorithms selected for GSoC, which can be found in apertus° Lab.
+
+* We developed hardware with FPGAs for doing real-time video processing (idea page "FPGA" column) - Programming Language: HDL (VHDL or Verilog).
+
+* Our cameras run embedded Linux and there are some Kernel related development tasks - Programming Language: C.
+
+* Other tasks are related to creating a camera virtualisation in QEMU, webinterfaces for camera control, controlling lenses, drawing histograms/waveform/vectorscopes from the cameras live view data or automating the camera internal darkframe calibration. Programming Languages for tools are C/C++, for scripting are Python and Bash and for webbased applications: Javascript, PHP and C/C++. Each task on the idea page contains more details about the desired environment and programming language.
 
 
 ### Get Involved
