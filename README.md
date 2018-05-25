@@ -102,13 +102,16 @@ Introduction to the camera's structure and components on <a href="https://www.ap
 <a href="https://github.com/apertus-open-source-cinema/beta-hardware">Hardware</a><br />
 <a href="https://github.com/apertus-open-source-cinema/axiom-beta-qemu">QEMU</a><br />
 
-
+<br />
+<br />
+<br />
+<br />
 </h4>
 
 
 # OpenCine
 
-OpenCine is a free RAW processing suite in development. If you'd like to contribute then, together with the below information, it's important to become familiar with three things: 
+OpenCine is a free RAW processing suite in development.
 
 
 
@@ -125,31 +128,41 @@ There are several free and open raw-image processing tools for still images like
 * Save/Load color transformation presets to/from File.
 * Adjustments are preserved in a XMP file that stays with the original unaltered footage.
 * Live Histogram/Vectorscope
-  * Batch Export RAW footage between IN/OUT to non destructive RAW conforming format (DNG, DPX, etc.)
-  * Batch Export RAW footage between IN/OUT to destructive digital intermediate format (Quicktime Prores444, AVI DNxHD, Image Sequence, etc.)
-  * Batch Export RAW footage between IN/OUT to destructive proxy format (Quicktime Prores422 (proxy), Quicktime/AVI MJPEG, etc.)
+* Batch Export RAW footage between IN/OUT to non destructive RAW conforming format (DNG, DPX, etc.)
+* Batch Export RAW footage between IN/OUT to destructive digital intermediate format (Quicktime Prores444, AVI DNxHD, Image Sequence, etc.)
+* Batch Export RAW footage between IN/OUT to destructive proxy format (Quicktime Prores422 (proxy), Quicktime/AVI MJPEG, etc.)
 
-
+<br />
+<br />
 <strong>Typical Usage</strong><br />
 
 Reviewing and Sorting Footage<br />
+<br />
+* Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine.
+* View footage in real-time.
+* Mark unneeded clips, rate good clips, write comments for each clip.
+* Later a filter can be used to hide all the bad/unneeded clips. Director could now review only the good ones and continue working with them.
 
-    Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine
-    View footage in real-time
-    mark unneeded clips, rate good clips, write comments for each clip
-    later a filter can be used to hide all the bad/unneeded clips. Director could now review only the good ones and continue working with them.
+<br />
 <br />
 
 Prepare Footage for Editing<br />
+<br />
+* Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine
+* Sort through footage and select best clips (rating, marking), shorten to relevant parts in the clips by setting IN/OUT points
+* Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
+* Export Intermediate Clips in FullHD as Avid DNxHD or Apple ProRes for editing in another software
 
-    Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine
-    Sort through footage and select best clips (rating, marking), shorten to relevant parts in the clips by setting IN/OUT points
-    Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
-    Export Intermediate Clips in FullHD as Avid DNxHD or Apple ProRes for editing in another software
+<br />
 <br />
 
 Prepare Footage for Finishing<br />
 <br />
-    An EDL/XML file of a complete edit contains the list of clips we need for finishing, import EDL/XML and link the clips to the raw footage (big win if we find a way to do this automatically)
-    Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
-    Export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite
+* An EDL/XML file of a complete edit contains the list of clips we need for finishing, import EDL/XML and link the clips to the raw footage (big win if we find a way to do this automatically)
+* Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
+* Export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite.
+    
+    
+    
+    
+If you'd like to contribute then it's important to become familiar with three things
