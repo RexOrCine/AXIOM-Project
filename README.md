@@ -86,7 +86,7 @@ The apertus° association proudly serves the common good and does not seek profi
 
 ### Languages
 
-* We're building a RAW video footage processing environment called OpenCine - Programming Language: C++. The software itself should be buildable on all platforms but primary focus is on Linux (Ubuntu and derivatives like LinuxMint distributions) - changes aren't tested on Windows straight away. OpenCine.Build Instructions. There is a sub-project called ProcessingTest, which is used for prototyping and testing algorithms, there you can find some de-Bayering tests. We also have custom de-Bayering algorithms selected for GSoC, which can be found in apertus° Lab.
+* We're building a RAW video footage processing environment called <a href="https://github.com/RexOrCine/AXIOM-Project/blob/master/README.md#opencine">OpenCine</a> - Programming Language: C++. The software itself should be buildable on all platforms but primary focus is on Linux (Ubuntu and derivatives like LinuxMint distributions) - changes aren't tested on Windows straight away. There is a sub-project called ProcessingTest, which is used for prototyping and testing algorithms, there you can find some de-Bayering tests. We also have custom de-Bayering algorithms selected for GSoC, which can be found in <a href="https://lab.apertus.org/home/">apertus° Lab</a>.
 
 * We developed hardware with FPGAs for doing real-time video processing (idea page "FPGA" column) - Programming Language: HDL (VHDL or Verilog).
 
