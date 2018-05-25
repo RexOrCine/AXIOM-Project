@@ -56,7 +56,9 @@ Individual projects being worked on inside the community are quite complex and i
 
 <br />
 
-Absolutely all documentation related to development is made publically available, e.g. design files, BOMs, software source code, etc (for everything... including FPGA), and the project's <a href="https://wiki.apertus.org/index.php/Main_Page">Wiki</a> is deep and extensive.
+Absolutely all documentation related to development is made publically available, e.g. design files, BOMs, software source code, etc (for everything... including FPGA), and the project's <a href="https://wiki.apertus.org/index.php/Main_Page">Wiki</a> is deep and extensive.<br />
+<br />
+Most of the immediate communications between community members takes place via IRC, and technical issues are documented on apertus Labs. A page detailing channel names and links can be found <a href="https://wiki.apertus.org/index.php/Join_the_Team">here</a>.<br />
 
 <br />
 <br />
@@ -160,9 +162,12 @@ Prepare Footage for Finishing<br />
 * Export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite.
     
     
+<strong>Repositories</strong><br />
+
+<a href="https://github.com/apertus-open-source-cinema/opencine">OpenCine</a><br />
+<a href="https://wiki.apertus.org/index.php/OpenCine.Build_Instructions">Build Instructions</a><br />
+<a href="https://lab.apertus.org/tag/open_cine/">Labs Workboard</a><br />   
     
-    
-If you'd like to contribute then it's important to become familiar with three things
 
 
 
