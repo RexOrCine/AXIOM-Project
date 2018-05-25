@@ -55,6 +55,12 @@ Individual projects being worked on inside the community are quite complex and i
 
 Absolutely all documentation related to development is made publically available, e.g. design files, BOMs, software source code, etc (for everything... including FPGA), and the project's <a href="https://wiki.apertus.org/index.php/Main_Page">Wiki</a> is deep and extensive.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 # AXIOM Beta
 
