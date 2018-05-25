@@ -14,6 +14,7 @@
 Individual projects being worked on inside the community are quite complex and if you're unfamiliar then getting an initial overview can be difficult. Please accept these pointers to assist. <br /> 
 <br />
 
+* <a href="https://github.com/apertus-open-source-cinema">All repositories</a>
 * [How the project got started](#Project-Background)
 * [Licenses](#Licenses)
 * [Languages](#Languages)
