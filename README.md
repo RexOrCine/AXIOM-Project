@@ -1,6 +1,6 @@
 # AXIOM-Project
 
-Welcome to the world of apertus°
+## Welcome to the world of apertus°
 
 ... and the home of FOSS, open hardware, community-driven, professional digital cinema and imaging tools.
 
@@ -64,8 +64,8 @@ Most of the immediate communications between community members takes place via I
 
 * [Introduction](#AXIOM-Project)
 * [How the project got started](#Project-Background)
-* [Licenses](### Licenses)
-* [Get involved](###Get Involved)
+* [Licenses](###Licenses)
+* [Get involved](###Get-Involved)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
 * [Buy us a coffee?](#donations)
