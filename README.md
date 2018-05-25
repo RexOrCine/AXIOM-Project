@@ -52,3 +52,15 @@ Individual projects being worked on inside the community are quite complex and i
   </a>
 </p>
 
+
+AXIOM Beta
+
+... a professional digital cinema camera built around FOSS and open hardware licenses.
+
+The first of its kind, and providing users with the ability to swap or upgrade sensors at any time, our community’s debut camera is the result of years of collaboration with the <a href="https://www.magiclantern.fm/">Magic Lantern</a>.
+</h4> team. With powerful internal components, custom-built printed circuit boards and plugin modules, FPGAs and an onboard Linux operating system at your disposal, changing the entire operation of the camera to suit the needs of any project is now possible.
+
+Introduction to the camera and its variations on <a href="https://www.apertus.org/axiom-beta">apertus.org</a>.
+
+
+</h4>
