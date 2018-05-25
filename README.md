@@ -62,7 +62,10 @@ Most of the immediate communications between community members takes place via I
 
 * [How the project got started](#Project-Background)
 * [Licenses](#Licenses)
-* [Get involved](###Get-Involved)
+* [Get involved](#Get-Involved)
+* [OpenCine](###OpenCine)
+* [AXIOM Remote](###AXIOM-Remote)
+
 
 <br />
 
