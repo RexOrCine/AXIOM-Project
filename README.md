@@ -96,10 +96,11 @@ Unlike with existing manufacturers, who typically use the shelf-life of a camera
 Introduction to the camera's structure and components on <a href="https://www.apertus.org/axiom-beta-modularity">apertus.org</a>.
 
 
-<strong>Repositories</strong>
-<a href="https://www.apertus.org/axiom-beta">apertus.org</a>
-<a href="https://www.apertus.org/axiom-beta">apertus.org</a>
-<a href="https://www.apertus.org/axiom-beta">apertus.org</a>
+<strong>Repositories</strong><br />
+
+<a href="https://www.apertus.org/axiom-beta">apertus.org</a><br />
+<a href="https://www.apertus.org/axiom-beta">apertus.org</a><br />
+<a href="https://www.apertus.org/axiom-beta">apertus.org</a><br />
 
 
 </h4>
