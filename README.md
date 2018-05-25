@@ -140,9 +140,9 @@ There are several free and open raw-image processing tools for still images like
 
 <br />
 <br />
-<strong>Typical Usage</strong><br />
+<strong>Typical usage</strong><br />
 <br />
-Reviewing and Sorting Footage<br />
+Reviewing and sorting footage<br />
 <br />
 * Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine.<br />
 * View footage in real-time.<br />
@@ -153,7 +153,7 @@ Reviewing and Sorting Footage<br />
 <br />
 <br />
 
-Prepare Footage for Editing<br />
+Prepare footage for editing<br />
 * Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine
 * Sort through footage and select best clips (rating, marking), shorten to relevant parts in the clips by setting IN/OUT points
 * Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
@@ -162,7 +162,7 @@ Prepare Footage for Editing<br />
 <br />
 <br />
 
-Prepare Footage for Finishing<br />
+Prepare footage for finishing<br />
 * An EDL/XML file of a complete edit contains the list of clips we need for finishing, import EDL/XML and link the clips to the raw footage (big win if we find a way to do this automatically)
 * Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
 * Export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite.
@@ -194,4 +194,19 @@ AXIOM Remote was funded as a stretch goal in the AXIOM Beta crowd funding campai
 Force Feedback for the two dials with two small built-in micro-stepper motors would allow feeling the settings (like min, max reached) without looking at the display. This could also allow switching the dials between jog/shuttle mode.<br />
 <br />
 The AXIOM Remote is based on a small LCD screen (for showing status information, camera parameters and navigating through menus, no live video) and a PIC32 micro-controller. The connection between AXIOM Remote and an AXIOM camera will be a flexible (preferably spiral) cable with solid connectors. Expansion slots (with GPIO) will allow easy future addition of new buttons/knobs/wheels/controllers/interfaces. <br />
+
+<strong>Repositories</strong><br />
+
+<a href="https://github.com/apertus-open-source-cinema/AXIOM-Remote">AXIOM Remote</a><br />
+<a href="https://lab.apertus.org/T939">AXIOM WebRemote: Detailed Specs, Requirements and Build</a><br />
+<a href="https://wiki.apertus.org/index.php/AXIOM_Remote">Concepts on Wiki</a><br />   
+    
+
+
+
+<br />
+<br />
+<br />
+<br />
+</h4>
 
