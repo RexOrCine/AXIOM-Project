@@ -53,7 +53,7 @@ Individual projects being worked on inside the community are quite complex and i
 </p>
 
 
-AXIOM Beta
+# AXIOM Beta
 
 ... a professional digital cinema camera built around FOSS and open hardware licenses.
 
