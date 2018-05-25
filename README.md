@@ -80,10 +80,10 @@ The AXIOM project has a rich history dating back to the late 2000's. The communi
 ### Licenses
 
 The apertus° association proudly serves the common good and does not seek profit in any way. It has been created to support and nurture the creation and distribution of knowledge. We release all of our software under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU General Public License V3</a>, all our documentation under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a>, and all hardware under the <a href="https://managed-cern-production-bucket-lhoz0gl12lnv.s3-eu-west-1.amazonaws.com/uploads/attachment/file/2388/cern_ohl_v_1_2.txt?X-Amz-Expires=600&X-Amz-Date=20180525T191150Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIPK5THR3DIK5DF2Q/20180525/eu-west-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3132ab553e4852f0937ae73fe8894be74626eb0fbb6a14138c39082af369f436">Cern Open Hardware License</a>. <br />
-<br />
 
 * <a href="https://www.apertus.org/mission-statement">Mission Statement</a>.
 * <a href="https://www.apertus.org/association-bylaws">Association Bylaws</a>.
+<br />
 
 ### Get Involved
 
