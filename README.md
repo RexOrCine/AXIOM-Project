@@ -82,7 +82,7 @@ The apertus° association proudly serves the common good and does not seek profi
 
 * <a href="https://www.apertus.org/mission-statement">Mission Statement</a>.
 * <a href="https://www.apertus.org/association-bylaws">Association Bylaws</a>.
-
+<br />
 
 ### Languages
 
@@ -92,8 +92,8 @@ The apertus° association proudly serves the common good and does not seek profi
 
 * Our cameras run embedded Linux and there are some Kernel related development tasks - Programming Language: C.
 
-* Other tasks are related to creating a camera virtualisation in QEMU, webinterfaces for camera control, controlling lenses, drawing histograms/waveform/vectorscopes from the cameras live view data or automating the camera internal darkframe calibration. Programming Languages for tools are C/C++, for scripting are Python and Bash and for webbased applications: Javascript, PHP and C/C++. Each task on the idea page contains more details about the desired environment and programming language.
-
+* Other tasks are related to creating a camera virtualisation in QEMU, webinterfaces for camera control, controlling lenses, drawing histograms/waveform/vectorscopes from the cameras live view data or automating the camera internal darkframe calibration. Programming Languages for tools are C/C++, for scripting are Python and Bash and for webbased applications: Javascript, PHP and C/C++. Each task on the idea page contains more details about the desired environment and programming language.<br />
+<br />
 
 ### Get Involved
 
@@ -103,6 +103,8 @@ The Association doesn't typically make demands of people but if you need pointer
 <br />
 
 ### Donate
+
+As the apertus° Association is a non-profit organisation there are limits to what can be achieved without a certain amount of financial contribution. If you're able to and would like to support the project please see our <a href="https://www.apertus.org/node/494">donation page</a>.
 
 
 
