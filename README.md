@@ -136,6 +136,7 @@ There are several free and open raw-image processing tools for still images like
 <strong>Typical Usage</strong><br />
 <br />
 Reviewing and Sorting Footage<br />
+<br />
 * Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine.
 * View footage in real-time.
 * Mark unneeded clips, rate good clips, write comments for each clip.
