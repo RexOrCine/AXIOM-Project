@@ -60,16 +60,11 @@ Absolutely all documentation related to development is made publically available
 <br />
 Most of the immediate communications between community members takes place via IRC, and technical issues are documented on apertus Labs. A page detailing channel names and links can be found <a href="https://wiki.apertus.org/index.php/Join_the_Team" target="blank">here</a>.<br />
 
-
-
-* [Introduction](#AXIOM-Project)
 * [How the project got started](#Project-Background)
-* [Licenses](###Licenses)
+* [Licenses](#Licenses)
 * [Get involved](###Get-Involved)
-* [Get in touch](#contact-us)
-* [Find out more](#find-out-more)
-* [Buy us a coffee?](#donations)
-* [License Info](#license)
+
+<br />
 
 
 ### Project Background
@@ -83,7 +78,7 @@ The apertus° association proudly serves the common good and does not seek profi
 
 * <a href="https://www.apertus.org/mission-statement">Mission Statement</a>.
 * <a href="https://www.apertus.org/association-bylaws">Association Bylaws</a>.
-<br />
+
 
 ### Get Involved
 
