@@ -94,6 +94,14 @@ The general approach for designing the AXIOM Beta PCB stack was to give every bo
 Unlike with existing manufacturers, who typically use the shelf-life of a camera's individual components as a way to ensure that a customer purchases a whole new camera, this approach also enables users to perform minor repairs in the event that, for example, one of the PCBs needs to be replaced.
 
 Introduction to the camera's structure and components on <a href="https://www.apertus.org/axiom-beta-modularity">apertus.org</a>.
+
+
+<strong>Repositories</strong>
+<a href="https://www.apertus.org/axiom-beta">apertus.org</a>
+<a href="https://www.apertus.org/axiom-beta">apertus.org</a>
+<a href="https://www.apertus.org/axiom-beta">apertus.org</a>
+
+
 </h4>
 
 
