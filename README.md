@@ -69,7 +69,17 @@ The first of its kind, and providing users with the ability to swap or upgrade s
 
 Introduction to the camera and its variations on <a href="https://www.apertus.org/axiom-beta">apertus.org</a>.
 
+<br />
 
+<p align="center">
+  <a href="https://www.apertus.org/axiom-beta">
+    <img src="https://www.apertus.org/sites/default/files/images/AXIOM-Beta-Developer-Kit-Reverse-on-f2f2f2.jpg" alt="AXIOM Beta Developer Kit" />
+  </a>
+</p>
+
+The general approach for designing the AXIOM Beta PCB stack was to give every board a clear, core purpose and not just pack as many things as possible onto each one. This way individual PCBs can be replaced without affecting the rest of the stack - for example, as the interfaces between the boards are predefined, a new image sensor can be installed simply by changing the Sensor Board PCB. Likewise, as individual printed circuit boards ultimately become more complex and offer richer features, the user can upgrade any of the camera's boards as and when they're ready to do so. Unlike with existing manufacturers, who typically use the shelf-life of a camera's individual components as a way to ensure that a customer purchases a whole new camera, this approach also enables users to perform minor repairs in the event that, for example, one of the PCBs needs to be replaced.
+
+Introduction to the camera's structure and components on <a href="https://www.apertus.org/axiom-beta-modularity">apertus.org</a>.
 </h4>
 
 
