@@ -116,19 +116,18 @@ OpenCine is a free RAW processing suite in development. If you'd like to contrib
 
 There are several free and open raw-image processing tools for still images like: ufraw, darktable, RawTherapee, Rawstudio, digiKam and many more. While some of them offer batch processing capabilities none of these tools were designed for moving pictures. Processing DNG sequences is cumbersome and time consuming, CinemaDNG MXF files are not yet supported at all. This is where Open Cine should come in. It will be a raw processing tool designed from the ground up for moving images instead of still images.<br />
 
-    Import Footage from Camera over network (FTP Transfer to backup location)
-    Import Footage from local drive
-    Preview Footage in real-time (GPU based raw debayering at full/reduced resolution [Reduced resolution equates to better playback performance])
-    View(all) / Edit(some) Metadata
-    Set IN/OUT points in footage
-    Apply color relevant RAW transformations (Whitebalance, Exposure, Curves, etc.)
-    Save/Load color transformation presets to/from File.
-    Adjustments are preserved in a XMP file that stays with the original unaltered footage.
-    Compare Color transformations (Presets A,B,C; split screen, etc.) of the same clip or of different clips
-    Live Histogram/Vectorscope
-    Batch Export RAW footage between IN/OUT to non destructive RAW conforming format (DNG, DPX, etc.)
-    Batch Export RAW footage between IN/OUT to destructive digital intermediate format (Quicktime Prores444, AVI DNxHD, Image Sequence, etc.)
-    Batch Export RAW footage between IN/OUT to destructive proxy format (Quicktime Prores422 (proxy), Quicktime/AVI MJPEG, etc.)
+* Import Footage from Camera over network (FTP Transfer to backup location)
+* Import Footage from local drive
+* Preview Footage in real-time (GPU based raw debayering at full/reduced resolution [Reduced resolution equates to better playback performance])
+* View(all) / Edit(some) Metadata
+* Set IN/OUT points in footage
+* Apply color relevant RAW transformations (Whitebalance, Exposure, Curves, etc.)
+* Save/Load color transformation presets to/from File.
+* Adjustments are preserved in a XMP file that stays with the original unaltered footage.
+* Live Histogram/Vectorscope
+  * Batch Export RAW footage between IN/OUT to non destructive RAW conforming format (DNG, DPX, etc.)
+  * Batch Export RAW footage between IN/OUT to destructive digital intermediate format (Quicktime Prores444, AVI DNxHD, Image Sequence, etc.)
+  * Batch Export RAW footage between IN/OUT to destructive proxy format (Quicktime Prores422 (proxy), Quicktime/AVI MJPEG, etc.)
 
 
 <strong>Typical Usage</strong><br />
