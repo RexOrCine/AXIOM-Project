@@ -172,7 +172,7 @@ If you'd like to contribute then it's important to become familiar with three th
 <br />
 </h4>
 
-#AXIOM Remote
+# AXIOM Remote
 
 This device, and when released the associated software, is designed to be a comprehensive remote control unit for the AXIOM range of cameras.<br />
 <br />
