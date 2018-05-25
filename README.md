@@ -1,10 +1,9 @@
 # AXIOM-Project
 
-## Welcome to the world of apertus°
+ <strong>Welcome to the world of apertus°</strong>
 
 ... and the home of FOSS, open hardware, community-driven, professional digital cinema and imaging tools.
 
-<br />
 
 <p align="center">
   <a href="https://www.apertus.org/axiom-beta">
