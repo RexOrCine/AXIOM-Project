@@ -144,6 +144,7 @@ Reviewing and Sorting Footage<br />
 
 <br />
 <br />
+<br />
 
 Prepare Footage for Editing<br />
 * Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine
