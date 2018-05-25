@@ -64,6 +64,8 @@ Most of the immediate communications between community members takes place via I
 * [Licenses](#Licenses)
 * [Languages](#Languages)
 * [Get involved](#Get-Involved)
+* [Donate](#Donate)
+* [AXIOM Beta](#AXIOM-Beta)
 * [OpenCine](###OpenCine)
 * [AXIOM Remote](###AXIOM-Remote)
 
@@ -104,18 +106,11 @@ The Association doesn't typically make demands of people but if you need pointer
 
 ### Donate
 
-As the apertus° Association is a non-profit organisation there are limits to what can be achieved without a certain amount of financial contribution. If you're able to and would like to support the project please see our <a href="https://www.apertus.org/node/494">donation page</a>.
-
-
-
+As the apertus° Association is a non-profit organisation there are limits to what can be achieved without a certain amount of financial contribution. If you're able to and would like to support the project please see our <a href="https://www.apertus.org/node/494">donation page</a>.<br />
 
 
 <br />
 <br />
-<br />
-
-https://www.apertus.org/node/494
-
 
 # AXIOM Beta
 
