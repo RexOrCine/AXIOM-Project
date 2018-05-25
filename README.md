@@ -62,7 +62,6 @@ Absolutely all documentation related to development is made publically available
 <br />
 <br />
 <br />
-<br />
 
 
 # AXIOM Beta
@@ -164,3 +163,23 @@ Prepare Footage for Finishing<br />
     
     
 If you'd like to contribute then it's important to become familiar with three things
+
+
+
+<br />
+<br />
+<br />
+<br />
+
+#AXIOM Remote
+
+This device, and when released the associated software, is designed to be a comprehensive remote control unit for the AXIOM range of cameras.<br />
+<br />
+As with all software & hardware that is pre-production the information contained on this page is subject to changes.<br />
+<br />
+AXIOM Remote was funded as a stretch goal in the AXIOM Beta crowd funding campaign and is still in development. It features push-buttons and switches as well as 2 rotary encoders (also with push-button function) that can be used to control a wide range of camera parameters like shutter speed, gain, overlays, FPS, gamma curves etc. To keep everything as flexible as possible the buttons next to the LCD have dynamic functionality as their commands are displayed next to them on the LCD. Switches on the side allow locking of each individual dial wheel or all buttons on the AXIOM Remote.<br />
+<br />
+Force Feedback for the two dials with two small built-in micro-stepper motors would allow feeling the settings (like min, max reached) without looking at the display. This could also allow switching the dials between jog/shuttle mode.<br />
+<br />
+The AXIOM Remote is based on a small LCD screen (for showing status information, camera parameters and navigating through menus, no live video) and a PIC32 micro-controller. The connection between AXIOM Remote and an AXIOM camera will be a flexible (preferably spiral) cable with solid connectors. Expansion slots (with GPIO) will allow easy future addition of new buttons/knobs/wheels/controllers/interfaces. <br />
+
