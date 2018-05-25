@@ -111,8 +111,7 @@ Introduction to the camera's structure and components on <a href="https://www.ap
 
 # OpenCine
 
-OpenCine is a free RAW processing suite in development.
-
+OpenCine is a free RAW processing suite in development.<br />
 
 
 <strong>Feature Overview</strong><br />
@@ -137,7 +136,6 @@ There are several free and open raw-image processing tools for still images like
 <strong>Typical Usage</strong><br />
 
 Reviewing and Sorting Footage<br />
-<br />
 * Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine.
 * View footage in real-time.
 * Mark unneeded clips, rate good clips, write comments for each clip.
@@ -147,7 +145,6 @@ Reviewing and Sorting Footage<br />
 <br />
 
 Prepare Footage for Editing<br />
-<br />
 * Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine
 * Sort through footage and select best clips (rating, marking), shorten to relevant parts in the clips by setting IN/OUT points
 * Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
@@ -157,7 +154,6 @@ Prepare Footage for Editing<br />
 <br />
 
 Prepare Footage for Finishing<br />
-<br />
 * An EDL/XML file of a complete edit contains the list of clips we need for finishing, import EDL/XML and link the clips to the raw footage (big win if we find a way to do this automatically)
 * Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
 * Export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite.
