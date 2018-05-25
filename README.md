@@ -6,6 +6,15 @@
 
 Individual projects being worked on inside the community are quite complex and if you're unfamiliar then getting an initial overview can be difficult. Please accept these pointers to assist.  
 
+* [How the project got started](#Project-Background)
+* [Licenses](#Licenses)
+* [Languages](#Languages)
+* [Get involved](#Get-Involved)
+* [Donate](#Donate)
+* [AXIOM Beta](#AXIOM-Beta)
+* [OpenCine](###OpenCine)
+* [AXIOM Remote](###AXIOM-Remote)
+
 <br />
 <br />
 
@@ -60,14 +69,6 @@ Absolutely all documentation related to development is made publically available
 <br />
 Most of the immediate communications between community members takes place via IRC, and technical issues are documented on apertus Labs. A page detailing channel names and links can be found <a href="https://wiki.apertus.org/index.php/Join_the_Team" target="blank">here</a>.<br />
 
-* [How the project got started](#Project-Background)
-* [Licenses](#Licenses)
-* [Languages](#Languages)
-* [Get involved](#Get-Involved)
-* [Donate](#Donate)
-* [AXIOM Beta](#AXIOM-Beta)
-* [OpenCine](###OpenCine)
-* [AXIOM Remote](###AXIOM-Remote)
 
 
 <br />
