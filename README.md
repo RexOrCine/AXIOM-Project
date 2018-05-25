@@ -60,6 +60,21 @@ Absolutely all documentation related to development is made publically available
 <br />
 Most of the immediate communications between community members takes place via IRC, and technical issues are documented on apertus Labs. A page detailing channel names and links can be found <a href="https://wiki.apertus.org/index.php/Join_the_Team" target="blank">here</a>.<br />
 
+
+* [How the project got started](#Project-Background)
+* [Who are we?](#who-are-we?)
+* [What do we need?](#what-do-we-need)
+* [How can you get involved?](#get-involved)
+* [Get in touch](#contact-us)
+* [Find out more](#find-out-more)
+* [Buy us a coffee?](#donations)
+* [License Info](#license)
+
+
+## Project Background
+
+The AXIOM project has a rich history dating back to the late 2000's. The community prides itself on the FOSS principles it's built around. A full account of the project's history and how the camera got started can be read on the<a href="https://wiki.apertus.org/index.php/AXIOM_Project_Background">Wiki</a>.
+
 <br />
 <br />
 <br />
