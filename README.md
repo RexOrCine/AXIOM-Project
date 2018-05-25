@@ -1,15 +1,15 @@
 # AXIOM-Project
 
- <strong>Welcome to the world of apertus°</strong>
-
-... and the home of FOSS, open hardware, community-driven, professional digital cinema and imaging tools.
-
-
 <p align="center">
   <a href="https://www.apertus.org/axiom-beta">
     <img src="https://github.com/apertus-open-source-cinema/apertus_multimedia/blob/master/Wallpapers/apertus_Standard_Wallpaper_04.png?raw=true" alt="apertus" />
   </a>
 </p>
+ <strong>Welcome to the world of apertus°</strong>
+
+... and the home of FOSS, open hardware, community-driven, professional digital cinema and imaging tools.
+
+
 
 Individual projects being worked on inside the community are quite complex and if you're unfamiliar then getting an initial overview can be difficult. Please accept these pointers to assist.  
 <br />
