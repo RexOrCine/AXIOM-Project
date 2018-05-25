@@ -65,7 +65,7 @@ Most of the immediate communications between community members takes place via I
 * [Introduction](#AXIOM-Project)
 * [How the project got started](#Project-Background)
 * [Licenses](#Licenses)
-* [How can you get involved?](#get-involved)
+* [Get involved](#Get-Involved)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
 * [Buy us a coffee?](#donations)
@@ -79,10 +79,30 @@ The AXIOM project has a rich history dating back to the late 2000's. The communi
 
 ### Licenses
 
-The apertus° association proudly serves the common good and does not seek profit in any way. It has been created to support and nurture the creation and distribution of knowledge. We release all of our software under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU General Public License V3</a>, all our documentation under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a>, and all hardware under the <a href="https://managed-cern-production-bucket-lhoz0gl12lnv.s3-eu-west-1.amazonaws.com/uploads/attachment/file/2388/cern_ohl_v_1_2.txt?X-Amz-Expires=600&X-Amz-Date=20180525T191150Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIPK5THR3DIK5DF2Q/20180525/eu-west-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3132ab553e4852f0937ae73fe8894be74626eb0fbb6a14138c39082af369f436">Cern Open Hardware License</a>. 
+The apertus° association proudly serves the common good and does not seek profit in any way. It has been created to support and nurture the creation and distribution of knowledge. We release all of our software under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU General Public License V3</a>, all our documentation under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a>, and all hardware under the <a href="https://managed-cern-production-bucket-lhoz0gl12lnv.s3-eu-west-1.amazonaws.com/uploads/attachment/file/2388/cern_ohl_v_1_2.txt?X-Amz-Expires=600&X-Amz-Date=20180525T191150Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIPK5THR3DIK5DF2Q/20180525/eu-west-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3132ab553e4852f0937ae73fe8894be74626eb0fbb6a14138c39082af369f436">Cern Open Hardware License</a>. <br />
+<br />
+
+* <a href="https://www.apertus.org/mission-statement">Mission Statement</a>.
+* <a href="https://www.apertus.org/association-bylaws">Association Bylaws</a>.
+
+### Get Involved
+
+Anyone is free to contribute towards and help steer project developments. How integral you become in the community and in what way is entirely up to you.<br />
+
+The Association doesn't typically make demands of people but if you need pointers on what needs to be done and how you could be useful then feel free to make contact, introduce yourself and describe what skills you have. <a href="https://wiki.apertus.org/index.php/How_to_Contribute">Wiki: Join The Team</a>.<br />
+<br />
+
+### Donate
+
+
+
+
+
 <br />
 <br />
 <br />
+
+https://www.apertus.org/node/494
 
 
 # AXIOM Beta
