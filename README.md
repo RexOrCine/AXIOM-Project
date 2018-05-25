@@ -6,6 +6,8 @@ Welcome to the world of apertus°
 
 Individual projects being worked on inside the community are quite complex and if you're unfamiliar then getting an initial overview can be difficult. Please accept these pointers to assist.  
 
+<br />
+<br />
 
 
 <p align="center">
@@ -52,6 +54,7 @@ Individual projects being worked on inside the community are quite complex and i
   </a>
 </p>
 
+<br />
 
 Absolutely all documentation related to development is made publically available, e.g. design files, BOMs, software source code, etc (for everything... including FPGA), and the project's <a href="https://wiki.apertus.org/index.php/Main_Page">Wiki</a> is deep and extensive.
 
