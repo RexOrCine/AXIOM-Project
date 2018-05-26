@@ -33,39 +33,9 @@ Individual projects being worked on inside the community are quite complex and i
 
   <br />
 
-  <a href="https://david-dm.org/Chocobozzz/PeerTube?path=client">
-    <img src="https://david-dm.org/Chocobozzz/PeerTube.svg?path=client" alt="Dependency Status" />
-  </a>
+[![pipeline status](https://gitlab.com/apertus/beta-software/badges/master/pipeline.svg)](https://gitlab.com/apertus/beta-software/pipelines/) [![download nightly image](https://img.shields.io/badge/download-nightly%20image-blue.svg)](https://gitlab.com/apertus/beta-software/-/jobs/artifacts/master/download?job=assemble_image)
 
-  <a href="https://david-dm.org/Chocobozzz/PeerTube?path=client&type=dev">
-    <img src="https://david-dm.org/Chocobozzz/PeerTube/dev-status.svg?path=client" alt="devDependency Status" />
-  </a>
-  
-  <a href="https://www.browserstack.com/automate/public-build/VXBPc0szNjUvRUNsREJQRFF6RkEvSjJBclZ4VUJBUm1hcS9RZGpUbitRST0tLWFWbjNEdVN6eEZpYTk4dGVpMkVlQWc9PQ==--644e755052bf7fe2346eb6e868be8e706718a17c%">
-    <img src='https://www.browserstack.com/automate/badge.svg?badge_key=VXBPc0szNjUvRUNsREJQRFF6RkEvSjJBclZ4VUJBUm1hcS9RZGpUbitRST0tLWFWbjNEdVN6eEZpYTk4dGVpMkVlQWc9PQ==--644e755052bf7fe2346eb6e868be8e706718a17c%'/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>Server</strong>
-
-  <br />
-
-  <a href="https://travis-ci.org/Chocobozzz/PeerTube">
-    <img src="https://travis-ci.org/Chocobozzz/PeerTube.svg?branch=develop" alt="Build Status" />
-  </a>
-
-  <a href="https://david-dm.org/Chocobozzz/PeerTube">
-    <img src="https://david-dm.org/Chocobozzz/PeerTube.svg" alt="Dependencies Status" />
-  </a>
-
-  <a href="https://david-dm.org/Chocobozzz/PeerTube?type=dev">
-    <img src="https://david-dm.org/Chocobozzz/PeerTube/dev-status.svg" alt="devDependency Status" />
-  </a>
-
-  <a href="http://standardjs.com/">
-    <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" alt="JavaScript Style Guide" />
-  </a>
+Pull requests: [![Build Status](https://travis-ci.org/apertus-open-source-cinema/beta-software.svg?branch=master)](https://travis-ci.org/apertus-open-source-cinema/beta-software)
 
   <a href="https://kiwiirc.com/client/irc.freenode.net/#apertus">
     <img src="https://img.shields.io/badge/%23apertus-on%20freenode-brightgreen.svg" alt="apertus Freenode IRC" />
