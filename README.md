@@ -155,7 +155,7 @@ OpenCine is a free RAW processing suite in development.<br />
 
 <strong>Feature Overview</strong><br />
 
-There are several free and open raw-image processing tools for still images like: ufraw, darktable, RawTherapee, Rawstudio, digiKam and many more. While some of them offer batch processing capabilities none of these tools were designed for moving pictures. Processing DNG sequences is cumbersome and time consuming, CinemaDNG MXF files are not yet supported at all. This is where Open Cine should come in. It will be a raw processing tool designed from the ground up for moving images instead of still images.<br />
+There are several free and open raw-image processing tools for still images like: ufraw, darktable, RawTherapee, Rawstudio, digiKam and many more. While some of them offer batch processing capabilities none of these tools were designed for moving pictures. Processing DNG sequences is cumbersome and time consuming, CinemaDNG MXF files are not yet supported at all. This is where OpenCine should come in. It will be a raw processing tool designed from the ground up for moving images instead of still images.<br />
 
 * Import Footage from Camera over network (FTP Transfer to backup location)
 * Import Footage from local drive
@@ -183,7 +183,7 @@ There are several free and open raw-image processing tools for still images like
 <br />
 Reviewing and sorting footage<br />
 <br />
-* Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine.<br />
+* Import DNG sequence that was shot with a raw camera (AXIOM Beta or other) into Open Cine.<br />
 * View footage in real-time.<br />
 * Mark unneeded clips, rate good clips, write comments for each clip.<br />
 * Later a filter can be used to hide all the bad/unneeded clips. Director could now review only the good ones and continue working with them.
@@ -193,7 +193,7 @@ Reviewing and sorting footage<br />
 <br />
 
 Prepare footage for editing<br />
-* Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine
+* Import DNG sequence that was shot with a raw camera (AXIOM Beta or other) into OpenCine
 * Sort through footage and select best clips (rating, marking), shorten to relevant parts in the clips by setting IN/OUT points
 * Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
 * Export Intermediate Clips in FullHD as Avid DNxHD or Apple ProRes for editing in another software
@@ -210,9 +210,9 @@ Prepare footage for finishing<br />
     
 <strong>Repositories</strong><br />
 
-<a href="https://github.com/apertus-open-source-cinema/opencine">OpenCine</a><br />
-<a href="https://wiki.apertus.org/index.php/OpenCine.Build_Instructions">Build Instructions</a><br />
-<a href="https://lab.apertus.org/tag/open_cine/">Labs Workboard</a><br />   
+<a href="https://github.com/apertus-open-source-cinema/opencine">GitHub: OpenCine</a><br />
+<a href="https://wiki.apertus.org/index.php/OpenCine.Build_Instructions">Wiki: Build Instructions</a><br />
+<a href="https://lab.apertus.org/tag/open_cine/">apertus° Labs: Workboard</a><br />   
     
 
 
@@ -233,13 +233,13 @@ AXIOM Remote was funded as a stretch goal in the AXIOM Beta crowd funding campai
 <br />
 Force Feedback for the two dials with two small built-in micro-stepper motors would allow feeling the settings (like min, max reached) without looking at the display. This could also allow switching the dials between jog/shuttle mode.<br />
 <br />
-The AXIOM Remote is based on a small LCD screen (for showing status information, camera parameters and navigating through menus, no live video) and a PIC32 micro-controller. The connection between AXIOM Remote and an AXIOM camera will be a flexible (preferably spiral) cable with solid connectors. Expansion slots (with GPIO) will allow easy future addition of new buttons/knobs/wheels/controllers/interfaces. 
+The AXIOM Remote is based on a small LCD screen (for showing status information, camera parameters and navigating through menus, no live video) and a PIC32 micro-controller. The connection between AXIOM Remote and an AXIOM cameras will be a flexible (preferably spiral) cable with solid connectors. Expansion slots (with GPIO) will allow easy future addition of new buttons/knobs/wheels/controllers/interfaces. 
 
 <br />
 <strong>Repositories</strong><br />
 <br />
 <a href="https://github.com/apertus-open-source-cinema/AXIOM-Remote">GitHub: AXIOM Remote</a><br />
-<a href="https://lab.apertus.org/T939">apertus Labs: AXIOM WebRemote - Detailed Specs, Requirements and Build</a><br />
+<a href="https://lab.apertus.org/T939">apertus° Labs: AXIOM WebRemote - Detailed Specs, Requirements and Build</a><br />
 <a href="https://wiki.apertus.org/index.php/AXIOM_Remote">Wiki: Concepts</a><br />   
     
 
