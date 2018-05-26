@@ -67,8 +67,8 @@ Individual projects being worked on inside the community are quite complex and i
     <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" alt="JavaScript Style Guide" />
   </a>
 
-  <a href="https://kiwiirc.com/client/irc.freenode.net/#peertube">
-    <img src="https://img.shields.io/badge/%23peertube-on%20freenode-brightgreen.svg" alt="PeerTube Freenode IRC" />
+  <a href="https://kiwiirc.com/client/irc.freenode.net/#apertus">
+    <img src="https://img.shields.io/badge/%23apertus-on%20freenode-brightgreen.svg" alt="apertus Freenode IRC" />
   </a>
 </p>
 
