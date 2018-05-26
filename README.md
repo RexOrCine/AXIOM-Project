@@ -28,16 +28,15 @@ Individual projects being worked on inside the community are quite complex and i
 <br />
 
 
-<p align="center">
-  <strong>Client</strong>
 
-  <br />
 
-[![pipeline status](https://gitlab.com/apertus/beta-software/badges/master/pipeline.svg)](https://gitlab.com/apertus/beta-software/pipelines/) [![download nightly image](https://img.shields.io/badge/download-nightly%20image-blue.svg)](https://gitlab.com/apertus/beta-software/-/jobs/artifacts/master/download?job=assemble_image)
+[![pipeline status](https://gitlab.com/apertus/beta-software/badges/master/pipeline.svg)](https://gitlab.com/apertus/beta-software/pipelines/) 
+
+[![download nightly image](https://img.shields.io/badge/download-nightly%20image-blue.svg)](https://gitlab.com/apertus/beta-software/-/jobs/artifacts/master/download?job=assemble_image)
 
 Pull requests: [![Build Status](https://travis-ci.org/apertus-open-source-cinema/beta-software.svg?branch=master)](https://travis-ci.org/apertus-open-source-cinema/beta-software)
 
-  <a href="https://kiwiirc.com/client/irc.freenode.net/#apertus">
+IRC: <a href="https://kiwiirc.com/client/irc.freenode.net/#apertus">
     <img src="https://img.shields.io/badge/%23apertus-on%20freenode-brightgreen.svg" alt="apertus Freenode IRC" />
   </a>
 </p>
