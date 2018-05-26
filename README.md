@@ -204,10 +204,12 @@ There are several free and open raw-image processing tools for still images like
 * Batch Export RAW footage between IN/OUT to destructive proxy format (Quicktime Prores422 (proxy), Quicktime/AVI MJPEG, etc.)
 <br />
 <br />
+
 <p align="center">
   <a href="https://wiki.apertus.org/index.php/OpenCine">
     <img src="https://wiki.apertus.org/images/2/25/OpenCine_With_Screen_Wiki.png" alt="apertus OpenCine" />
   </a>
+  </p>
 <br />
 
 <br />
