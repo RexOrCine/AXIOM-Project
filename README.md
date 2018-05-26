@@ -45,22 +45,22 @@ IRC: <a href="https://kiwiirc.com/client/irc.freenode.net/#apertus">
 
 Absolutely all documentation related to development is made publically available, e.g. design files, BOMs, software source code, etc (for everything... including FPGA), and the project's <a href="https://wiki.apertus.org/index.php/Main_Page" target="blank">Wiki</a> is deep and extensive.<br />
 <br />
-Most of the immediate communications between community members takes place via IRC, and technical issues are documented on apertus Labs. A page detailing channel names and links can be found <a href="https://wiki.apertus.org/index.php/Join_the_Team" target="blank">here</a>.<br />
+Most of the immediate communications between community members takes place via IRC, and technical issues are documented on apertus Labs. A page detailing channel names and links can be found at <a href="https://wiki.apertus.org/index.php/Join_the_Team" target="blank">Wiki: Join The Team</a>.<br />
 
 
 <br />
 
 ### Project Background
 
-The AXIOM project has a rich history dating back to the late 2000's and the community contributing around it prides itself on the FOSS principles it's built around. A full account of the project's history and how the camera got started can be read on the <a href="https://wiki.apertus.org/index.php/AXIOM_Project_Background">Wiki</a>.<br />
+The AXIOM project has a rich history dating back to the late 2000's and the community contributing around it prides itself on the FOSS principles it's built around. A full account of the project's history and how the camera got started can be read on the <a href="https://wiki.apertus.org/index.php/AXIOM_Project_Background">Wiki: Project Backround</a>.<br />
 <br />
 
 ### Licenses
 
 The apertus° association proudly serves the common good and does not seek profit in any way. It has been created to support and nurture the creation and distribution of knowledge. We release all of our software under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU General Public License V3</a>, all our documentation under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a>, and all hardware under the <a href="https://managed-cern-production-bucket-lhoz0gl12lnv.s3-eu-west-1.amazonaws.com/uploads/attachment/file/2388/cern_ohl_v_1_2.txt?X-Amz-Expires=600&X-Amz-Date=20180525T191150Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIPK5THR3DIK5DF2Q/20180525/eu-west-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3132ab553e4852f0937ae73fe8894be74626eb0fbb6a14138c39082af369f436">Cern Open Hardware License</a>. <br />
 
-* <a href="https://www.apertus.org/mission-statement">Mission Statement</a>.
-* <a href="https://www.apertus.org/association-bylaws">Association Bylaws</a>.
+* <a href="https://www.apertus.org/mission-statement">apertus.org: Mission Statement</a>.
+* <a href="https://www.apertus.org/association-bylaws">apertus.org: Association Bylaws</a>.
 <br />
 
 ### Languages
@@ -83,7 +83,7 @@ The Association doesn't typically make demands of people but if you need pointer
 
 ### Donate
 
-As the apertus° Association is a non-profit organisation there are limits to what can be achieved without a certain amount of financial contribution. If you're able to and would like to support the project please see our <a href="https://www.apertus.org/node/494">donation page</a>.<br />
+As the apertus° Association is a non-profit organisation there are limits to what can be achieved without a certain amount of financial contribution. If you're able to and would like to support the project please see <a href="https://www.apertus.org/node/494">apertus.org: Donation page</a>.<br />
 
 
 <br />
@@ -117,7 +117,7 @@ The general approach for designing the AXIOM Beta PCB stack was to give every bo
 
 Unlike with existing manufacturers, who typically use the shelf-life of a camera's individual components as a way to ensure that a customer purchases a whole new camera, this approach also enables users to perform minor repairs in the event that, for example, one of the PCBs needs to be replaced.
 
-Introduction to the camera's structure and components on <a href="https://www.apertus.org/axiom-beta-modularity">apertus.org</a>.
+Introduction to the camera's structure and components at <a href="https://www.apertus.org/axiom-beta-modularity">apertus.org: AXIOM Beta</a>.
 
 <br />
 <p align="center">
@@ -129,9 +129,9 @@ Introduction to the camera's structure and components on <a href="https://www.ap
 
 <strong>Repositories</strong><br />
 
-<a href="https://github.com/apertus-open-source-cinema/beta-software">Software</a><br />
-<a href="https://github.com/apertus-open-source-cinema/beta-hardware">Hardware</a><br />
-<a href="https://github.com/apertus-open-source-cinema/axiom-beta-qemu">QEMU</a><br />
+<a href="https://github.com/apertus-open-source-cinema/beta-software">GitHub: Software</a><br />
+<a href="https://github.com/apertus-open-source-cinema/beta-hardware">GitHub: Hardware</a><br />
+<a href="https://github.com/apertus-open-source-cinema/axiom-beta-qemu">GitHub: QEMU</a><br />
 
 <br />
 <br />
@@ -238,9 +238,9 @@ The AXIOM Remote is based on a small LCD screen (for showing status information,
 <br />
 <strong>Repositories</strong><br />
 <br />
-<a href="https://github.com/apertus-open-source-cinema/AXIOM-Remote">AXIOM Remote</a><br />
-<a href="https://lab.apertus.org/T939">AXIOM WebRemote: Detailed Specs, Requirements and Build</a><br />
-<a href="https://wiki.apertus.org/index.php/AXIOM_Remote">Concepts on Wiki</a><br />   
+<a href="https://github.com/apertus-open-source-cinema/AXIOM-Remote">GitHub: AXIOM Remote</a><br />
+<a href="https://lab.apertus.org/T939">apertus Labs: AXIOM WebRemote - Detailed Specs, Requirements and Build</a><br />
+<a href="https://wiki.apertus.org/index.php/AXIOM_Remote">Wiki: Concepts</a><br />   
     
 
 
