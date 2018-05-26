@@ -271,7 +271,7 @@ The AXIOM Remote is based on a small LCD screen (for showing status information,
 <br />
 <br />
 <strong>Repositories</strong><br />
-
+<br />
 <a href="https://github.com/apertus-open-source-cinema/AXIOM-Remote">AXIOM Remote</a><br />
 <a href="https://lab.apertus.org/T939">AXIOM WebRemote: Detailed Specs, Requirements and Build</a><br />
 <a href="https://wiki.apertus.org/index.php/AXIOM_Remote">Concepts on Wiki</a><br />   
