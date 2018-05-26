@@ -269,7 +269,6 @@ Force Feedback for the two dials with two small built-in micro-stepper motors wo
 The AXIOM Remote is based on a small LCD screen (for showing status information, camera parameters and navigating through menus, no live video) and a PIC32 micro-controller. The connection between AXIOM Remote and an AXIOM camera will be a flexible (preferably spiral) cable with solid connectors. Expansion slots (with GPIO) will allow easy future addition of new buttons/knobs/wheels/controllers/interfaces. 
 
 <br />
-<br />
 <strong>Repositories</strong><br />
 <br />
 <a href="https://github.com/apertus-open-source-cinema/AXIOM-Remote">AXIOM Remote</a><br />
