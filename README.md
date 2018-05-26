@@ -210,9 +210,7 @@ There are several free and open raw-image processing tools for still images like
     <img src="https://wiki.apertus.org/images/2/25/OpenCine_With_Screen_Wiki.png" alt="apertus OpenCine" />
   </a>
   </p>
-<br />
 
-<br />
 <br />
 <strong>Typical usage</strong><br />
 <br />
@@ -240,7 +238,9 @@ Prepare footage for finishing<br />
 * An EDL/XML file of a complete edit contains the list of clips we need for finishing, import EDL/XML and link the clips to the raw footage (big win if we find a way to do this automatically)
 * Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)
 * Export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite.
-    
+
+<br />
+<br />
     
 <strong>Repositories</strong><br />
 
