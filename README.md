@@ -175,6 +175,13 @@ Introduction to the camera's structure and components on <a href="https://www.ap
 
 # OpenCine
 
+
+<p align="center">
+  <a href="https://wiki.apertus.org/index.php/OpenCine">
+    <img src="https://github.com/apertus-open-source-cinema/apertus_multimedia/blob/master/Wallpapers/OC%20Standard%20Wallpaper%202.png" alt="apertus OpenCine" />
+  </a>
+<br />
+
 OpenCine is a free RAW processing suite in development.<br />
 
 
