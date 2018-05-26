@@ -240,7 +240,6 @@ Prepare footage for finishing<br />
 * Export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite.
 
 <br />
-<br />
     
 <strong>Repositories</strong><br />
 
