@@ -103,7 +103,7 @@ As the apertus° Association is a non-profit organisation there are limits to wh
 
 The first of its kind, and providing users with the ability to swap or upgrade sensors at any time, the community’s debut camera is the result of years of collaboration with the <a href="https://www.magiclantern.fm/">Magic Lantern</a> team. With powerful internal components, custom-built printed circuit boards and plugin modules, FPGAs and an onboard Linux operating system at your disposal, changing the entire operation of the camera to suit the needs of any project is now possible.
 
-Introduction to the camera and its variations on <a href="https://www.apertus.org/axiom-beta">apertus.org</a>.
+Introduction to the camera and its variations at <a href="https://www.apertus.org/axiom-beta">apertus.org: AXIOM Beta > Overview</a>.
 
 <br />
 
@@ -117,7 +117,7 @@ The general approach for designing the AXIOM Beta PCB stack was to give every bo
 
 Unlike with existing manufacturers, who typically use the shelf-life of a camera's individual components as a way to ensure that a customer purchases a whole new camera, this approach also enables users to perform minor repairs in the event that, for example, one of the PCBs needs to be replaced.
 
-Introduction to the camera's structure and components at <a href="https://www.apertus.org/axiom-beta-modularity">apertus.org: AXIOM Beta</a>.
+Introduction to the camera's structure and components at <a href="https://www.apertus.org/axiom-beta-modularity">apertus.org: AXIOM Beta > Modularity</a>.
 
 <br />
 <p align="center">
